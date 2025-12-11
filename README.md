@@ -232,7 +232,7 @@ This project is part of MIT course 2.625 (Electrochemical Energy Systems).
 
 ## Authors
 
-- Felix Wang
+- Felix Watson
 
 ## Acknowledgments
 
